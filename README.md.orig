@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+# change before rebase
+#change made in feature branch
+=======
+change in feature
+>>>>>>> e69c96a (commit in feature before rabase)
