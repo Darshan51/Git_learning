@@ -1,6 +1,2 @@
-## Git_learning
-Git learning Project
-#commited status
-#staged status
-#unstaged status
-
+# change before rebase
+#change made in feature branch
